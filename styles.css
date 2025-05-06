@@ -9,7 +9,12 @@ body {
     background: #0a192f;
     color: #fff;
 }
-
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+  
 /* Navigation */
 nav {
     position: fixed;
